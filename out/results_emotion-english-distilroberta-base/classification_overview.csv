@@ -1,0 +1,8 @@
+predicted_emotion,all_headlines,real_only,fake_only
+anger,795,383,412
+disgust,434,186,248
+fear,1076,555,521
+joy,155,63,92
+neutral,3180,1649,1531
+sadness,487,245,242
+surprise,208,90,118
